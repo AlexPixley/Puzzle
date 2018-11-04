@@ -1,0 +1,84 @@
+2018-11-03 3:36:12 PM	This log contains information about the import schema operation into project 'PuzzleDB' on computer 'BHODI' by user 'Alex'.
+2018-11-03 3:36:12 PM	Import of database schema has started.
+2018-11-03 3:36:36 PM	Gathering database options
+2018-11-03 3:36:36 PM	Gathering users
+2018-11-03 3:36:36 PM	Gathering roles
+2018-11-03 3:36:36 PM	Gathering application roles
+2018-11-03 3:36:36 PM	Gathering role memberships
+2018-11-03 3:36:36 PM	Gathering filegroups
+2018-11-03 3:36:36 PM	Gathering full-text catalogs
+2018-11-03 3:36:36 PM	Gathering assemblies
+2018-11-03 3:36:36 PM	Gathering certificates
+2018-11-03 3:36:36 PM	Gathering asymmetric keys
+2018-11-03 3:36:36 PM	Gathering symmetric keys
+2018-11-03 3:36:36 PM	Gathering encrypted symmetric keys
+2018-11-03 3:36:36 PM	Gathering schemas
+2018-11-03 3:36:36 PM	Gathering XML schema collections
+2018-11-03 3:36:36 PM	Gathering user-defined data types
+2018-11-03 3:36:36 PM	Gathering user-defined types
+2018-11-03 3:36:36 PM	Gathering table types
+2018-11-03 3:36:36 PM	Gathering unique keys for table types
+2018-11-03 3:36:36 PM	Gathering primary keys for table types
+2018-11-03 3:36:36 PM	Gathering indexes for table types
+2018-11-03 3:36:36 PM	Gathering check constraints for table types
+2018-11-03 3:36:36 PM	Gathering default constraints for table types
+2018-11-03 3:36:36 PM	Gathering partition functions
+2018-11-03 3:36:36 PM	Gathering partition schemes
+2018-11-03 3:36:36 PM	Gathering functions
+2018-11-03 3:36:36 PM	Gathering encrypted functions
+2018-11-03 3:36:36 PM	Gathering aggregates
+2018-11-03 3:36:36 PM	Gathering procedures
+2018-11-03 3:36:36 PM	Gathering encrypted procedures
+2018-11-03 3:36:36 PM	Gathering tables
+2018-11-03 3:36:36 PM	Gathering primary keys
+2018-11-03 3:36:37 PM	Gathering unique constraints
+2018-11-03 3:36:37 PM	Gathering foreign keys
+2018-11-03 3:36:37 PM	Gathering default constraints
+2018-11-03 3:36:37 PM	Gathering check constraints
+2018-11-03 3:36:37 PM	Gathering views
+2018-11-03 3:36:37 PM	Gathering encrypted views
+2018-11-03 3:36:37 PM	Gathering indexes
+2018-11-03 3:36:37 PM	Gathering statistics
+2018-11-03 3:36:37 PM	Gathering full-text index stoplists
+2018-11-03 3:36:37 PM	Gathering search property lists
+2018-11-03 3:36:37 PM	Gathering search properties
+2018-11-03 3:36:37 PM	Gathering full-text indexes
+2018-11-03 3:36:37 PM	Gathering column store indexes
+2018-11-03 3:36:37 PM	Gathering spatial indexes
+2018-11-03 3:36:37 PM	Gathering XML indexes
+2018-11-03 3:36:37 PM	Gathering Selective XML indexes
+2018-11-03 3:36:37 PM	Gathering encrypted triggers
+2018-11-03 3:36:37 PM	Gathering triggers
+2018-11-03 3:36:37 PM	Gathering encrypted and clr ddl triggers
+2018-11-03 3:36:37 PM	Gathering ddl triggers
+2018-11-03 3:36:37 PM	Gathering synonyms
+2018-11-03 3:36:37 PM	Gathering defaults
+2018-11-03 3:36:37 PM	Gathering data constraint uddt bindings
+2018-11-03 3:36:37 PM	Gathering rules
+2018-11-03 3:36:37 PM	Gathering data constraint uddt bindings
+2018-11-03 3:36:37 PM	Gathering message types
+2018-11-03 3:36:37 PM	Gathering queues
+2018-11-03 3:36:37 PM	Gathering contracts
+2018-11-03 3:36:37 PM	Gathering services
+2018-11-03 3:36:37 PM	Gathering event notifications
+2018-11-03 3:36:37 PM	Gathering remote service bindings
+2018-11-03 3:36:37 PM	Gathering broker priorities
+2018-11-03 3:36:37 PM	Gathering signatures
+2018-11-03 3:36:37 PM	Gathering data compression options
+2018-11-03 3:36:37 PM	Gathering sequence types
+2018-11-03 3:36:37 PM	Gathering security policies
+2018-11-03 3:36:37 PM	Gather column encryption keys
+2018-11-03 3:36:37 PM	Gathering column master keys
+2018-11-03 3:36:37 PM	Gathering external data sources
+2018-11-03 3:36:37 PM	Gathering external file formats
+2018-11-03 3:36:37 PM	Gathering external tables
+2018-11-03 3:36:37 PM	Gathering database permissions
+2018-11-03 3:36:37 PM	Gathering extended properties
+2018-11-03 3:36:37 PM	Gathering credentials
+2018-11-03 3:36:37 PM	Gathering logins
+2018-11-03 3:36:37 PM	Gathering server audits
+2018-11-03 3:36:38 PM	Scanning project for duplicate elements
+2018-11-03 3:36:38 PM	Finished duplicate element processing
+2018-11-03 3:36:39 PM	Finished importing database.
+2018-11-03 3:36:39 PM	A summary of the import was saved to the following location: C:\SQL\Puzzle\PuzzleSSDT\PuzzleDB\Import Schema Logs\PuzzleDB_20181103073611.log
+2018-11-03 3:36:39 PM	Click Finish to continue...
